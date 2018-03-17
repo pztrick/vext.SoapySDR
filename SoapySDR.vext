@@ -1,0 +1,11 @@
+modules:
+    SoapySDR
+
+test_import:
+    SoapySDR
+
+pths:
+    SoapySDR.pth
+
+install_hints:
+    SoapySDR was not found.
